@@ -1,0 +1,12 @@
+true
+Username
+Alok
+Age
+17
+Occupation
+098128
+Total Investments
+0
+Tracker
+
+Investments

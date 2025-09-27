@@ -1,0 +1,9 @@
+true
+Username
+Yuriy
+Age
+17
+Occupation
+Fireman
+Total Investments
+0
