@@ -1,4 +1,4 @@
-# FundSave  
+# FundSave GUI Program
 by: Jordan Lin, Yuriy Neyra Alvarado, Alok Mantri  
 
 ## Brief Description / Motivation  
